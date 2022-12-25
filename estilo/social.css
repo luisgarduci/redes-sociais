@@ -14,11 +14,9 @@ body {
 section#telefone {
     background-image: url(../pacote-d013/imagens/frame-iphone.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50% , -50%);
+    top: 15%;
+    left: 42%;
     width: 250px;
     height: 454px;
 }
